@@ -8,12 +8,12 @@ Analysis and modeling of major crime in Toronto using data from the Toronto Poli
 
 <br/>
 
-# Folders
-data/ : stores raw data obtained from https://data.torontopolice.on.ca/datasets/TorontoPS::major-crime-indicators-open-data/explore. Not included in repository.
-
 # Notebooks
 1. EDA.ipynb: Exploratory data analysis. 
 2. data_processing.ipynb: Data cleaning and feature engineering
 3. predictive_modeling.ipynb: Multiclass and binary crime classification
 4. association_rule_mining.ipynb: Assocition rule mining.
 
+# Other files and folders
+data/ : stores raw data obtained from https://data.torontopolice.on.ca/datasets/TorontoPS::major-crime-indicators-open-data/explore. Not included in repository. <br/>
+PSDP_Open_Data_Documentation.pdf : official data source documentation
