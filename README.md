@@ -14,5 +14,6 @@ In the next section, we explored predictive analytics, that is, predicting crime
 # Other files and folders
 data/ : stores raw data obtained from https://data.torontopolice.on.ca/datasets/TorontoPS::major-crime-indicators-open-data/explore. Not included in repository. <br/>
 html/ : stores html interactive heatmaps of crime density by type <br/>
+figures/ : static visualizations from EDA <br/>
 Final_report.pdf : final report detailing methods and results
 PSDP_Open_Data_Documentation.pdf : official data source documentation
